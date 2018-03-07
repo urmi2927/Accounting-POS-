@@ -1,0 +1,43 @@
+.itemList{
+    height: 10%;
+}
+
+.itemListuse{
+    height: 20%;
+    background-color: white;
+}
+.homeItem{
+    height: 26%;
+}
+
+.backgroundColor{
+    background-color: #040404;
+}
+
+.backgroundColoritem{
+    background-color: #1f8efe;
+}
+
+
+
+.text{
+    font-family: 'Lato', 'solaimanlipinormal', Arial, serif;
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+
+}
+.texthome{
+    font-family: "Titillium Web";
+    font-size: 40px;
+}
+
+.margin{
+    margin-bottom: 2px;
+}
+
+li
+{
+    float: left;
+}
+
